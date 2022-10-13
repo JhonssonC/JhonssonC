@@ -1,8 +1,13 @@
 - 👋 Hi, I’m @JhonssonC
-- 👀 I’m interested in code
+- 👀 I’m interested in Python and Javascript
 - 🌱 I’m currently learning Odoo
-- 💞️ I’m looking to collaborate on Odoo
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate in Python or Javascript development
+- 📫 How to reach me :phone: (+593996155789)
+
+Visit the following page if you want to know more about me :wink: 
+
+:point_right: [JhonssonC](https://jhonssonc.github.io/) :point_left:
+
 
 <!---
 JhonssonC/JhonssonC is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
