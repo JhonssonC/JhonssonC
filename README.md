@@ -2,7 +2,7 @@
 - 👀 I’m interested in Python and Javascript
 - 🌱 I’m currently learning Odoo
 - 💞️ I’m looking to collaborate in Python or Javascript development
-- 📫 How to reach me :phone: (+593996155789)
+
 
 Visit the following page if you want to know more about me :wink: 
 
